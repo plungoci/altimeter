@@ -67,4 +67,4 @@ This project reads pressure/temperature from an **MS5611**, computes:
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE`.
+This project is licensed under the GPL-3.0 License. See `LICENSE`.
